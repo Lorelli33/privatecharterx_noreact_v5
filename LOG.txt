@@ -1,0 +1,18 @@
+
+✅ FINAL CLEAN REBUILD – privatecharterx-v9-final-clean-rebuild.zip
+
+🗑️ Gelöscht:
+- App.tsx, main.tsx, index.html
+- components/App.tsx
+- app/page.tsx (enthielt ThemeToggle)
+- app/providers.tsx (ThemeContext alias)
+- pages/ (komplett, inkl. aller Altdateien)
+
+✅ Ergebnis:
+- Kein ThemeToggle
+- Kein UserMenu
+- Kein Login, kein Minting
+- Kein Pages-Router, 100% App Router
+- Kein JSX-Fehler, keine Aliase
+
+✅ Build-ready für Vercel
